@@ -5,4 +5,3 @@ __pycache__/
 feeds/*.opml
 !feeds/*.example.opml
 data/archive.json
-data/latest-24h.json

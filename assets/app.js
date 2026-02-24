@@ -372,7 +372,7 @@ async function init() {
   if (newsResult.status === "fulfilled") {
     const payload = newsResult.value;
     state.itemsAi = payload.items_ai || payload.items || [];
-    state.itemsAllRaw = payload.items_all_raw || payload.items_all || payload.items || [];
+    state.itemsAllRaw = payload.items_all || payload.items || [];
     state.itemsAll = payload.items_all || payload.items || [];
     state.statsAi = payload.site_stats || [];
     state.totalAi = payload.total_items || state.itemsAi.length;
