@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-02-24T15:31:19.054410Z",
+  "sites": [
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "ok": true,
+      "item_count": 405,
+      "duration_ms": 3591,
+      "error": null
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "ok": true,
+      "item_count": 744,
+      "duration_ms": 4223,
+      "error": null
+    },
+    {
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "ok": true,
+      "item_count": 534,
+      "duration_ms": 23366,
+      "error": null
+    },
+    {
+      "site_id": "bestblogs",
+      "site_name": "BestBlogs",
+      "ok": true,
+      "item_count": 83,
+      "duration_ms": 7018,
+      "error": null
+    },
+    {
+      "site_id": "tophub",
+      "site_name": "TopHub",
+      "ok": true,
+      "item_count": 3035,
+      "duration_ms": 13267,
+      "error": null
+    },
+    {
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "ok": true,
+      "item_count": 78,
+      "duration_ms": 1136,
+      "error": null
+    },
+    {
+      "site_id": "aihubtoday",
+      "site_name": "AI HubToday",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 3495,
+      "error": null
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 1604,
+      "error": null
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI今日热榜",
+      "ok": true,
+      "item_count": 488,
+      "duration_ms": 4067,
+      "error": null
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "ok": true,
+      "item_count": 1393,
+      "duration_ms": 14527,
+      "error": null
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "ok": true,
+      "partial_failures": 1,
+      "item_count": 759,
+      "duration_ms": 14088,
+      "error": "1 feeds failed",
+      "feed_count": 3,
+      "effective_feed_count": 3,
+      "ok_feed_count": 2,
+      "failed_feed_count": 1,
+      "skipped_feed_count": 0,
+      "replaced_feed_count": 0
+    }
+  ],
+  "successful_sites": 11,
+  "failed_sites": [],
+  "zero_item_sites": [],
+  "fetched_raw_items": 7589,
+  "items_before_topic_filter": 13960,
+  "items_in_24h": 1731,
+  "rss_opml": {
+    "enabled": true,
+    "path": "feeds\\follow.opml",
+    "feed_total": 3,
+    "effective_feed_total": 3,
+    "ok_feeds": 2,
+    "failed_feeds": [
+      "https://openai.com/news/rss.xml"
+    ],
+    "zero_item_feeds": [],
+    "skipped_feeds": [],
+    "replaced_feeds": [],
+    "feeds": [
+      {
+        "site_id": "opmlrss:33e649875b",
+        "site_name": "OPML RSS",
+        "feed_title": "Hugging Face Blog",
+        "feed_url": "https://huggingface.co/blog/feed.xml",
+        "effective_feed_url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "item_count": 739,
+        "duration_ms": 9498,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:969629fda3",
+        "site_name": "OPML RSS",
+        "feed_title": "InfoQ CN",
+        "feed_url": "https://www.infoq.cn/feed",
+        "effective_feed_url": "https://www.infoq.cn/feed",
+        "ok": true,
+        "item_count": 20,
+        "duration_ms": 145,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:3ae57466b5",
+        "site_name": "OPML RSS",
+        "feed_title": "OpenAI News",
+        "feed_url": "https://openai.com/news/rss.xml",
+        "effective_feed_url": "https://openai.com/news/rss.xml",
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 4445,
+        "error": "HTTPSConnectionPool(host='openai.com', port=443): Max retries exceeded with url: /news/rss.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      }
+    ]
+  }
+}

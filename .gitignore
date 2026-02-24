@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+feeds/*.opml
+!feeds/*.example.opml
+data/archive.json
+data/latest-24h.json
