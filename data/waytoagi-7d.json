@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:06:47.933899Z",
+  "generated_at": "2026-03-18T17:35:47.282955Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-18",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-03-18",
@@ -26,9 +26,14 @@
       "date": "2026-03-18",
       "title": "《 Builders Unscripted 》是OpenAI官方推出的一档聚焦顶尖开发者的硬核对谈节目。在2026年2月25日首期节目中， Peter Steinberger 围绕 OpenClaw 、他在开源领域的历程，以及如何借助Codex进行构建展开了深入解析。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-03-18",
@@ -48,6 +53,11 @@
     {
       "date": "2026-03-18",
       "title": "《 Builders Unscripted 》是OpenAI官方推出的一档聚焦顶尖开发者的硬核对谈节目。在2026年2月25日首期节目中， Peter Steinberger 围绕 OpenClaw 、他在开源领域的历程，以及如何借助Codex进行构建展开了深入解析。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
