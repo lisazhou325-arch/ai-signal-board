@@ -8031,5 +8031,12 @@
   "DeepSeek V4 Pro has 1.6T total parameters, its largest model by that metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens (Vincent Chow/South China Morning Post)": "DeepSeek V4 Pro 的总参数为 1.6T，是该指标中最大的模型，V4 Flash 的参数为 284B；两种模型都有 100 万个代币的上下文窗口（Vincent Chow/南华早报）",
   "Huawei says its Ascend supernode based on the Ascend 950 AI chips will fully support DeepSeek V4, as DeepSeek launches a preview of its V4 model (Reuters)": "华为表示，基于 Ascend 950 AI 芯片的 Ascend 超级节点将全面支持 DeepSeek V4，DeepSeek 发布了其 V4 模型的预览版（路透社）",
   "Familiarity is the enemy: On why Enterprise systems have failed for 60 years": "熟悉是敌人：浅谈企业系统 60 年来为何失败",
-  "Ubuntu 26.04": "乌班图26.04"
+  "Ubuntu 26.04": "乌班图26.04",
+  "Composition Shouldn't be this Hard": "作文不应该这么难",
+  "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture": "Show HN：法学硕士如何工作 – 基于 Karpathy 讲座的交互式视觉指南",
+  "Cohere and Aleph Alpha announce merger in Berlin, creating a $20 billion transatlantic AI company": "Cohere 和 Aleph Alpha 在柏林宣布合并，创建一家价值 200 亿美元的跨大西洋人工智能公司",
+  "Canada's Cohere and Germany's Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal (Financial Times)": "加拿大的 Cohere 和德国的 Aleph Alpha 同意一项合并协议，合并后的集团估值约为 20B 美元，致力于主权人工智能领域的研究；两国政府都支持该协议（金融时报）",
+  "DeepSeek returns with V4-Pro and V4-Flash, a year after its ‘Sputnik moment’": "在“人造卫星时刻”一年后，DeepSeek 带着 V4-Pro 和 V4-Flash 回归",
+  "Verda raises $117 million to expand its GPU cloud platform from the Nordics into the US, UK, and Asia": "Verda 融资 1.17 亿美元，将其 GPU 云平台从北欧扩展到美国、英国和亚洲",
+  "Why Not Venus?": "为什么不是金星？"
 }
